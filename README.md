@@ -17,3 +17,7 @@ This repository contains the source code for the Sen Browser. It also retrieves 
 ## Downloads
 
 Sen Browser is currently unavailable. It will likely be available in a few months.
+
+## Issues
+
+In case of any problem with Sen Browser, please contact us to senagundev@gmail.com
