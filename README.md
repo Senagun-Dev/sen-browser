@@ -1,4 +1,4 @@
-![Brave Browser](./docs/source/_static/Brave.svg)
+![Sen Browser](./docs/source/_static/SenBrowser.png)
 
 ## Overview
 
