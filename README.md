@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository holds the build tools needed to build the Brave desktop browser for macOS, Windows, and Linux.  In particular, it fetches and syncs code from the projects defined in `package.json` and `src/brave/DEPS`:
+This repository contains the source code for the Sen Browser. It also retrieves and syncs code from the projects defined in `package.json` and `src/brave/DEPS`:
 
   - [Chromium](https://chromium.googlesource.com/chromium/src.git)
     - Fetches code via `depot_tools`.
@@ -16,7 +16,7 @@ This repository holds the build tools needed to build the Brave desktop browser 
 
 ## Downloads
 
-You can [visit our website](https://brave.com/download) to get the latest stable release.
+Sen Browser is currently unavailable. It will likely be available in a few months.
 
 ## Contributing
 
