@@ -13,7 +13,9 @@ Sen Browser is currently unavailable. It will likely be available in a few month
 
 ## Based On:
 
-Sen Browser is based in Brave(https://github.com/senagun-dev/senbrowser-core)
+Sen Browser is based on:
+ - [Brave](https://github.com/brave/brave-browser)
+ - [Brave-core](https://github.com/brave/brave-core)
 
 ## Issues
 
